@@ -9,13 +9,29 @@
 </blockquote>
 <h2 id="contents">Contents</h2>
 <ul>
-<li><a href="#product-analytics">Product Analytics</a></li>
+<li><a href="#product-analytics">Product Analytics</a>
+<ul>
+<li><a href="#product-kpis">Product KPIs</a></li>
+<li><a href="#product-metrics">Product metrics</a></li>
+<li><a href="#tracking-plan">Tracking Plan</a></li>
+</ul>
+</li>
 </ul>
 <h2 id="product-analytics">Product Analytics</h2>
 <p>Resources for crafting product KPIs &amp; metrics, event taxonomies, and best practices.</p>
+<h3 id="product-kpis">Product KPIs</h3>
 <ul>
-<li><a href="http://example.com">List item</a></li>
-<li><a href="http://example.com">List item</a></li>
+<li><a href="https://blog.userlane.com/epic-guide-to-saas-metrics-for-customer-success-and-product-management/">Epic Guide To SaaS Metrics for Customer Success and Product Management</a> - Example business and product KPIs.</li>
+</ul>
+<h3 id="product-metrics">Product metrics</h3>
+<ul>
+<li><a href="https://amplitude.com/blog/2018/01/09/product-metrics/">How to Set Metrics for Product Launches</a> - Examples of objectives and metrics to track for new features.</li>
+</ul>
+<h3 id="tracking-plan">Tracking plan</h3>
+<p>A tracking plan clarifies what events to track, where those events live in the code base, and why those events are necessary from a business perspective.</p>
+<ul>
+<li><a href="https://segment.com/docs/guides/best-practices/what-s-a-tracking-plan-and-why-should-you-care/">What’s a tracking plan and why should you care?</a> - Condensed guide to building a tracking plan, including an example.</li>
+<li><a href="https://amplitude.zendesk.com/hc/en-us/articles/115000465251-Data-Taxonomy-Playbook">Data Taxonomy Playbook</a> - A comprehensive guide to tracking, including best practices and examples.</li>
 </ul>
 <h2 id="contribute">Contribute</h2>
 <p>Contributions welcome! Read the <a href="contributing.md">contribution guidelines</a> first.</p>
