@@ -107,7 +107,7 @@
 <h3 id="likert-scale">Likert Scale</h3>
 <ul>
 <li><a href="https://www.surveymonkey.com/mp/likert-scale/">What is a Likert scale?</a></li>
-<li>[The Likert Scale Explained — With Examples &amp; Sample Questions] (<a href="https://www.fieldboom.com/blog/likert-scale/">https://www.fieldboom.com/blog/likert-scale/</a>)</li>
+<li><a href="https://www.fieldboom.com/blog/likert-scale/">The Likert Scale Explained — With Examples &amp; Sample Questions</a></li>
 <li><a href="http://www.marquette.edu/dsa/assessment/documents/Sample-Likert-Scales.pdf">Likert-Type Scale Items</a> - comprehensive list of likert scales.</li>
 <li><a href="https://www.researchgate.net/post/What_is_the_best_way_used_to_present_the_five-point_likert_scale_data_Using_mean_scores_or_using_percentages">Presenting likert scale data</a> - discussion thread on how to summarize and report on likert scale data</li>
 </ul>
