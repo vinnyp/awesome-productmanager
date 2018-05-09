@@ -9,6 +9,8 @@
 </blockquote>
 <h2 id="contents">Contents</h2>
 <ul>
+<li><a href="#customer-development">Customer Development</a></li>
+<li><a href="#okrs">OKRs</a></li>
 <li><a href="#prioritization">Prioritization</a></li>
 <li><a href="#product-analytics">Product Analytics</a>
 <ul>
@@ -27,6 +29,15 @@
 <li><a href="#segmentation">Segmentation</a></li>
 <li><a href="#misc">Misc</a></li>
 </ul>
+<h2 id="customer-development">Customer Development</h2>
+<ul>
+<li><a href="https://mfishbein.com/the-ultimate-list-of-customer-development-questions/">The Ultimate List of Customer Development Questions</a></li>
+<li><a href="https://www.thisisproductmanagement.com/episodes/asking-the-right-questions/">Asking the Right Questions is Product Management</a> - Podcast discussing effective user interview questions</li>
+</ul>
+<h2 id="okrs">OKRs</h2>
+<ul>
+<li><a href="http://eleganthack.com/the-art-of-the-okr/">The Art of the OKR</a></li>
+</ul>
 <h2 id="prioritization">Prioritization</h2>
 <ul>
 <li><a href="https://medium.com/@freshtilledsoil/how-to-prioritize-product-features-and-improvements-8aea72c8bf27">How to prioritize product features and improvements</a></li>
@@ -41,14 +52,17 @@
 <ul>
 <li><a href="https://blog.userlane.com/epic-guide-to-saas-metrics-for-customer-success-and-product-management/">Epic Guide To SaaS Metrics for Customer Success and Product Management</a> - Example business and product KPIs.</li>
 <li><a href="http://leananalyticsbook.com/one-metric-that-matters/">The One Metric That Matters</a> - How to identify the one metric that matters for your business.</li>
+<li><a href="https://blog.kissmetrics.com/single-startup-metric/">How to Use a Single Metric to Run Your Startup</a> - Four Reasons You Need the OMTM for Your Startup</li>
 <li><a href="https://amplitude.com/blog/2016/02/23/steps-measuring-feature/">7 Steps to Measuring the Success of a Feature</a></li>
 <li><a href="https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version">Startup metrics for Pirates (long version)</a> - one of the most popular frameworks for defining key product metrics</li>
+<li><a href="https://www.nngroup.com/articles/frequency-recency/?lm=ux-goals-analytics&amp;pt=article">Frequency &amp; Recency of Site Visits: 2 Metrics for User Engagement</a></li>
 </ul>
 <h3 id="feature-metrics">Feature metrics</h3>
 <ul>
 <li><a href="https://amplitude.com/blog/2018/01/09/product-metrics/">How to Set Metrics for Product Launches</a> - Examples of objectives and metrics to track for new features.</li>
 <li><a href="https://www.nngroup.com/articles/success-rate-the-simplest-usability-metric/">Success Rate: The Simplest Usability Metric</a> - Guidance on how to model a success rate for completing a task or action.</li>
 <li><a href="https://hackernoon.com/metrics-game-framework-5e3dce1be8ac">4 Steps to Defining GREAT Metrics for ANY Product</a> - Outlines the GAME (Goals, Actions, Metrics, Evaluations) framework for defining product success</li>
+<li><a href="https://www.nngroup.com/articles/ux-goals-analytics/">Translating UX Goals into Analytics Measurement Plans</a> - Focus on UX goals to drive analytics measurement plans, rather than tracking superficial metrics. Identify the core goal of a design to meaningfully measure it.</li>
 </ul>
 <h3 id="building-an-event-taxonomy">Building an event taxonomy</h3>
 <p>An event taxonomy or tracking plan clarifies what events to track, where those events live in the code base, and why those events are necessary from a business perspective.</p>
@@ -82,6 +96,7 @@
 <ul>
 <li><a href="https://www.widerfunnel.com/how-to-prioritize-conversion-rate-optimization-tests-using-pie/">How to prioritize conversion rate optimization tests using PIE</a> - use PIE to figure out where to test first.</li>
 <li><a href="https://conversionxl.com/blog/should-you-optimize-for-micro-conversions/">Should You Optimize for Micro-Conversions?</a> - Good explanation of micro-conversions, macro-conversions, and secondary actions.</li>
+<li><a href="https://www.nngroup.com/articles/micro-conversions/">Define Micro Conversions to Measure Incremental UX Improvements</a></li>
 </ul>
 <p>Prioritizing experiments</p>
 <ul>
@@ -95,8 +110,10 @@
 </ul>
 <h2 id="sdlc">SDLC</h2>
 <ul>
+<li><a href="https://www.guru99.com/alpha-beta-testing-demystified.html">Alpha vs Beta Testing</a></li>
 <li><a href="https://www.slideshare.net/centercode/sucessful-beta-testing-2034042">Successful Beta Testing</a></li>
 <li><a href="https://pragmaticmarketing.com/resources/articles/building-a-better-beta">Building a Better Beta</a></li>
+<li><a href="https://medium.com/the-lean-product-lifecycle/launching-learning-a-beta-release-37f73ba4ac06">Launching &amp; Learning - A Beta Release</a></li>
 </ul>
 <h2 id="qualitative-feedback">Qualitative Feedback</h2>
 <ul>
@@ -121,6 +138,12 @@
 <h2 id="misc">Misc</h2>
 <ul>
 <li><a href="https://blog.intercom.com/how-we-build-software/">Lessons learned from scaling a product team</a> - Practical advice on running a product team from Intercom</li>
+<li><a href="https://blog.woopra.com/what-it-means-to-have-a-product-first-company-18c12ef3a114">What it Means to Have a Product-First Company</a></li>
+<li><a href="https://www.squawkpoint.com/2015/05/plan-do-check-act/">How to Improve at Just About Anything</a></li>
+</ul>
+<h2 id="usability-testing">Usability Testing</h2>
+<ul>
+<li><a href="https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/">Why You Only Need to Test with 5 Users</a> Research report from Nielsen claiming you only need 5 users for a usability test</li>
 </ul>
 <h2 id="contribute">Contribute</h2>
 <p>Contributions welcome! Read the <a href="contributing.md">contribution guidelines</a> first.</p>
